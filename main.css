@@ -1,0 +1,45 @@
+.row{
+    background-color: red;
+}
+.container{
+    padding-top: 1em;
+    background-color: black
+}
+span{
+    float: left
+}
+.voorbeeld{
+    background:#047F91;
+    text-align: center
+  }
+
+.red, .green , .blue, .purple, .yellow, .pink, .cyan{
+    color: white;
+    text-align: center
+}
+
+.blue{
+    background-color: rgb(45, 45, 165);
+    
+}
+
+.green{
+    background-color: green;
+   
+}
+.red{
+    background-color: darkred;
+    
+}
+.purple{
+    background-color: purple
+}
+.yellow{
+    background-color: rgb(253, 253, 71)
+}
+.pink{
+    background-color: rgb(212, 138, 150)
+}
+.cyan{
+    background-color: cyan
+}
